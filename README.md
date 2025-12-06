@@ -68,9 +68,4 @@ I’m a full stack developer with **12+ years of experience** building scalable,
   <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Asdigital&show_icons=true">
 </picture>
 
----
-
-# ✨ **Minimal & Ultra-Professional Version (Optional)**
-
-If you prefer a cleaner minimal look, you can use this instead:
 

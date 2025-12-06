@@ -48,10 +48,10 @@ I’m a full stack developer with **12+ years of experience** building scalable,
 ## 📊 GitHub Analytics
 
 ### 🔥 GitHub Stats  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asdigital&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=AmitGitHub3193&show_icons=true&theme=tokyonight" />
 
 ### 📈 Most Used Languages  
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asdigital&layout=compact&theme=tokyonight" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AmitGitHub3193&layout=compact&theme=tokyonight" />
 
 ### 🏆 GitHub Streak  
 <img src="https://streak-stats.demolab.com?user=Asdigital&theme=tokyonight" />
@@ -60,9 +60,9 @@ I’m a full stack developer with **12+ years of experience** building scalable,
 ## 🌗 **Dark / Light Mode Auto Switching**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Asdigital&show_icons=true&theme=tokyonight">
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Asdigital&show_icons=true&theme=default">
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Asdigital&show_icons=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=AmitGitHub3193&show_icons=true&theme=tokyonight">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=AmitGitHub3193&show_icons=true&theme=default">
+  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AmitGitHub3193&show_icons=true">
 </picture>
 
 

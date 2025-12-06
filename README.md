@@ -45,20 +45,17 @@ I’m a full stack developer with **12+ years of experience** building scalable,
 ✔️ Specialize in long-term projects, system architecture, and clean code  
 ✔️ Strong problem solver with a passion for building impactful digital products  
 
----
-
-## 📊 **GitHub Analytics**
+## 📊 GitHub Analytics
 
 ### 🔥 GitHub Stats  
-![Asdigital's GitHub stats](https://github-readme-stats.vercel.app/api?username=Asdigital&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Asdigital&show_icons=true&theme=tokyonight" />
 
 ### 📈 Most Used Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Asdigital&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Asdigital&layout=compact&theme=tokyonight" />
 
 ### 🏆 GitHub Streak  
-![GitHub Streak](https://streak-stats.demolab.com?user=Asdigital&theme=tokyonight)
+<img src="https://streak-stats.demolab.com?user=Asdigital&theme=tokyonight" />
 
----
 
 ## 🌗 **Dark / Light Mode Auto Switching**
 

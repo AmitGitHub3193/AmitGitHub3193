@@ -1,4 +1,4 @@
-# 🚀 Hi, I’m **Asdigital**  
+# 🚀 Hi, I’m **Amit Chauhan**  
 ### **Full Stack Developer | 12+ Years Experience | Web, Mobile & Cloud Engineer**
 
 <img src="https://raw.githubusercontent.com/Asdigital/banner/main/animated-dev-banner.gif" width="100%" />
